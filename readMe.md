@@ -1,18 +1,33 @@
-# Max Frequency Elements
+# Remove Duplicates from Sorted Array
 
-## Description
-This C++ program calculates the sum of frequencies of elements with the maximum frequency in a given vector.
+This C++ program provides a solution to remove duplicates from a sorted array. The solution is implemented as a class method `removeDuplicates` in the `Solution` class.
 
-## Usage
-1. Ensure you have a C++ compiler installed.
-2. Clone or download the repository.
-3. Compile the program using your C++ compiler.
-4. Run the executable.
+## Instructions
 
-## How to Compile
-g++ prob1.cpp -o max_frequency_elements
+1. Clone the repository to your local machine:
 
-## How to Run
-```bash
-./max_frequency_elements
+    ```bash
+    git clone https://github.com/yourusername/remove-duplicates-sorted-array.git
+    ```
 
+2. Navigate to the project directory:
+
+    ```bash
+    cd remove-duplicates-sorted-array
+    ```
+
+3. Compile the program:
+
+    ```bash
+    g++ main.cpp -o remove_duplicates
+    ```
+
+4. Run the executable:
+
+    ```bash
+    ./remove_duplicates
+    ```
+
+## Example Usage
+
+The `main` function in `main.cpp` demonstrates the usage of the `removeDuplicates` method. It includes two test cases with sorted arrays and prints the results to the console.
