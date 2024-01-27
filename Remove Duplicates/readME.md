@@ -16,7 +16,7 @@ This C++ program provides a solution to remove duplicates from a sorted array. T
     # Navigate to the Leetcode directory
     cd Leetcode
 
-    # Navigate to the Array2 directory
+    # Navigate to the Remove Duplicates directory
     cd Array2
     ```
 

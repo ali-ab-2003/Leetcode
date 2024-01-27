@@ -16,7 +16,7 @@ git clone https://github.com/your-username/Leetcode.git
     # Navigate to the Leetcode directory
     cd Leetcode
 
-    # Navigate to the Array3 folder
+    # Navigate to the Search Insert folder
     cd Array3
     ```
 

@@ -1,4 +1,4 @@
-# Remove Duplicates from Sorted Array
+# Sum of Maximum Frequency Elements in an Array
 
 This C++ program provides a solution to find the `sum` of elements with `maximum frequency` in the array.
 
@@ -16,7 +16,7 @@ This C++ program provides a solution to find the `sum` of elements with `maximum
     # Navigate to the Leetcode directory
     cd Leetcode
 
-    # Navigate to the Array1 directory
+    # Navigate to the Max Frequency Elements directory
     cd Array1
     ```
 
