@@ -17,13 +17,13 @@ This C++ program provides a solution to remove duplicates from a sorted array. T
     cd Leetcode
 
     # Navigate to the Remove Duplicates directory
-    cd Array2
+    cd Remove Duplicates
     ```
 
 3. Compile the program:
 
     ```bash
-    g++ array2.cpp -o remove_duplicates
+    g++ remove_duplicates.cpp -o remove_duplicates
     ```
 
 4. Run the executable:
@@ -34,4 +34,4 @@ This C++ program provides a solution to remove duplicates from a sorted array. T
 
 ## Example Usage
 
-The `main` function in `array2.cpp` demonstrates the usage of the `removeDuplicates` method. It includes two test cases with sorted arrays and prints the results to the console.
+The `main` function in `remove_duplicates.cpp` demonstrates the usage of the `removeDuplicates` method. It includes two test cases with sorted arrays and prints the results to the console.

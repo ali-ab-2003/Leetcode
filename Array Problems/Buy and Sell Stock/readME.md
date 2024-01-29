@@ -1,6 +1,6 @@
 # Sum of Maximum Frequency Elements in an Array
 
-This C++ program provides a solution to find the `sum` of elements with `maximum frequency` in the array.
+This C++ program provides the maximum profit possible according to given data.
 
 ## Instructions
 
@@ -16,22 +16,22 @@ This C++ program provides a solution to find the `sum` of elements with `maximum
     # Navigate to the Leetcode directory
     cd Leetcode
 
-    # Navigate to the Max Frequency Elements directory
-    cd Max Frequency Elements
+    # Navigate to the Buy and Sell Stock directory
+    cd Buy and Sell Stock
     ```
 
 3. Compile the program:
 
     ```bash
-    g++ max_frequency_elements.cpp -o max_frequency_elements
+    g++ buy_and_sell_stock.cpp -o buy_and_sell_stock
     ```
 
 4. Run the executable:
 
     ```bash
-    ./max_frequency_elements
+    ./buy_and_sell_stock
     ```
 
 ## Example Usage
 
-The `main` function in `max_frequency_elements.cpp` demonstrates the usage of the `maxFrequencyElements` method. 
+The `main` function in `buy_and_sell_stock.cpp` demonstrates the usage of the `maxProfit` method. 

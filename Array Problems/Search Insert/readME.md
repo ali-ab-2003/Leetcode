@@ -17,13 +17,13 @@ git clone https://github.com/your-username/Leetcode.git
     cd Leetcode
 
     # Navigate to the Search Insert folder
-    cd Array3
+    cd Search Insert
     ```
 
 3. Compile the program:
 
     ```bash
-    g++ array3.cpp -o search_insert
+    g++ search_insert.cpp -o search_insert
     ```
 
 4. Run the executable:
@@ -34,5 +34,5 @@ git clone https://github.com/your-username/Leetcode.git
 
 ## Example Usage
 
-The `main` function in `array3.cpp` demonstrates the usage of the `searchInsert` method. It includes one test case with a sorted vector and prints the result to the console.
+The `main` function in `search_insert.cpp` demonstrates the usage of the `searchInsert` method. It includes one test case with a sorted vector and prints the result to the console.
 
